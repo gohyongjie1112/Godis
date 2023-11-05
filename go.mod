@@ -1,3 +1,3 @@
-module github.com/gohyongjie1112/Godis
+module github.com/poryduckZ/Godis
 
 go 1.20
